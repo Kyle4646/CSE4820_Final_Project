@@ -11,6 +11,8 @@ TODO:
 - Normalize data
 - Remove unnecessary features
 - Remove highly correlated features.
+- pick categories
+- convert features to numeric 
 
 MODELS (both):
 - KNN
