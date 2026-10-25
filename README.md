@@ -2,8 +2,6 @@
 
 TODO: 
 - Can add market share
-- Add weekend feature
-- Is Peak Hours (Binary)
 - Weather part (Kyle do)
 - Normalize data
 - Remove unnecessary features
