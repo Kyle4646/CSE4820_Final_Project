@@ -17,6 +17,8 @@ MODELS (both):
 - Shallow NN
 - Maybe try to do average thing said in class where all 3 models run and majority picks decision
 
+  ASSESS with SoftMax, rewards us for being confidently right.
+
 MODELS (binary only):
 - logistic
 
