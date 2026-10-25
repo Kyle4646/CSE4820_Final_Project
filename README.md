@@ -1,8 +1,6 @@
 # CSE4820_Final_Project
 
 TODO: 
-- Can add market share
-- Weather part (Kyle do)
 - Normalize data
 - Remove unnecessary features
 - Remove highly correlated features.
