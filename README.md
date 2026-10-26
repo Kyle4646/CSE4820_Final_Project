@@ -1,6 +1,6 @@
 # CSE4820_Final_Project
 
-USE BOTH_WEATHER DATA
+USE FLIGHT_DATA_CLEANED
 
 TODO: 
 - Normalize data
