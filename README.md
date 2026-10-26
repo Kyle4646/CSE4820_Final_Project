@@ -1,6 +1,7 @@
 # CSE4820_Final_Project
 
 USE BOTH_WEATHER DATA
+
 TODO: 
 - Normalize data
 - Remove unnecessary features
