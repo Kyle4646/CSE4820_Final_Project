@@ -1,6 +1,6 @@
 # CSE4820_Final_Project
 
-USE FLIGHT_DATA_CLEANED
+USE FLIGHT_DATA_ERA5
 
 TODO: 
 - Normalize data
