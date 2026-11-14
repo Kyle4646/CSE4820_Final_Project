@@ -3,13 +3,10 @@
 USE FLIGHT_DATA_ERA5
 
 TODO: 
-- Normalize data
-- Remove unnecessary features
-- Remove highly correlated features.
-- pick categories
-- convert features to numeric
-
-*going to also use website similar paper uses to see if more accurate. Will take a few days (data download limit unless $). 65% accuracy for KNN for 50/50 split not bad, similar to other literature.
+- Rerun models, extensively search for best features
+- Compare results
+- Unsupervised clustering (Kyle + Addie)
+- Run NN for multi-class (Cristian)
 
 MODELS (both):
 - KNN
