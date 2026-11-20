@@ -5,6 +5,8 @@ USE FLIGHT_DATA_ERA5
 TODO: 
 - Rerun models, extensively search for best features
 - Compare results
+- Help others (Kyle)
+- Random Forest Binary (Kyle)
 - Unsupervised clustering (Kyle + Addie)
 - Run NN for multi-class (Cristian)
 - Ordinal Classification Models (Cristian)
