@@ -7,6 +7,9 @@ TODO:
 - Compare results
 - Unsupervised clustering (Kyle + Addie)
 - Run NN for multi-class (Cristian)
+- Ordinal Classification Models (Cristian)
+- Feature Importance (ALL)
+- Learning Curves (ALL)
 
 MODELS (both):
 - KNN
