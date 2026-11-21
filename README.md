@@ -9,7 +9,7 @@ TODO:
 - Random Forest Binary (Kyle)
 - Unsupervised clustering (Kyle + Addie)
 - Run NN for multi-class (Cristian)
-- Ordinal Classification Models (Cristian)
+- Turn models into Ordinal Classification Models (Cristian)
 - Feature Importance (ALL)
 - Learning Curves (ALL)
 
