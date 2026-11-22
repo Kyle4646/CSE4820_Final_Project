@@ -2,6 +2,28 @@
 
 USE FLIGHT_DATA_ERA5
 
+For Models start with these features:
+
+significant_features = [
+    "VC_windspeed",
+    "VC_cloudcover",
+    "VC_visibility",
+    "VC_temp",
+    "VC_humidity",
+    "VC_precip",
+    "VC_2h_temp",
+    "VC_2h_humidity",
+    "VC_2h_precip",
+    "VC_2h_windspeed",
+    "VC_2h_visibility",
+    "Market Share",
+    "Passenger Load Factor",
+    "OTP Index",
+    "Hourly_Airport_Departures",
+    "Distance",
+    "Airport_Congestion_Index"
+]
+
 TODO: 
 - Rerun models, extensively search for best features
 - Compare results
