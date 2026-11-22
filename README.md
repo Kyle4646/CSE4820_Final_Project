@@ -25,7 +25,7 @@ significant_features = [
 ]
 
 TODO: 
-- Rerun models, extensively search for best features
+- Rerun models, extensively search for best features (can do foward selection)
 - Compare results
 - Help others (Kyle)
 - Random Forest Binary (Kyle)
