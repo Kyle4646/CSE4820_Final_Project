@@ -2,6 +2,8 @@
 
 USE FLIGHT_DATA_ERA5
 
+ALSO NORMALIZE DATA
+
 For Models start with these features:
 
 significant_features = [
