@@ -46,6 +46,8 @@ MODELS (both):
 
   ASSESS with SoftMax, rewards us for being confidently right.
 
+  At end of both, run majority. We have 5 Binary Models
+
 MODELS (binary only):
 - logistic
 
