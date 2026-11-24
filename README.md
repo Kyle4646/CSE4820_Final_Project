@@ -46,7 +46,7 @@ MODELS (both):
 
   ASSESS with SoftMax, rewards us for being confidently right.
 
-  At end of both, run majority. We have 5 Binary Models
+  At end of both, run majority. We have 5 Binary Models MODEL ESEMBLES
 
 MODELS (binary only):
 - logistic
