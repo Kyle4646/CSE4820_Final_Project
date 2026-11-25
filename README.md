@@ -43,6 +43,9 @@ MODELS (both):
 - Shallow NN
 - CNN (can use my model code)
 - Maybe try to do average thing said in class where all 3 models run and majority picks decision
+- 
+note for multiclass try smote if interested 
+
 
   ASSESS with SoftMax, rewards us for being confidently right.
 
