@@ -4,6 +4,8 @@ USE FLIGHT_DATA_ERA5
 
 ALSO NORMALIZE DATA
 
+Demo (Kyle) will make interactive thing where you type in flight departure and basic weather data, will give prob. Will do it on majority vote.
+
 For Models start with these features:
 
 significant_features = [
