@@ -42,14 +42,12 @@ TODO:
 MODELS (both):
 - KNN
 - Linear
-- Shallow NN
+- NN
 - CNN (can use my model code)
-- Maybe try to do average thing said in class where all 3 models run and majority picks decision
-- 
+-Forest
+  
 note for multiclass try smote if interested 
 
-
-  ASSESS with SoftMax, rewards us for being confidently right.
 
   At end of both, run majority. We have 5 Binary Models MODEL ESEMBLES
 
